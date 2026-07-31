@@ -1,0 +1,7 @@
+# GitHub Pages builds this documentation site from the root of main.
+# Source of truth for these files is the `docs/` folder of the private app
+# repository (uvd020-tech/planning-poker) — edit there, then copy here.
+theme: jekyll-theme-minimal
+title: Planning Poker for Jira
+description: Team backlog estimation inside Jira Cloud — user guide, privacy policy and support.
+show_downloads: false
