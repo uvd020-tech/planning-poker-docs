@@ -81,8 +81,9 @@ the edit screen.
 2. In a company-managed project, add the **Time tracking** field to the edit
    screen of the work item types you estimate, exactly as described above for
    Story Points.
-3. In a team-managed project, turn on **Project settings → Features >
-   Estimation** and choose **Time** as the unit.
+3. In a team-managed project, turn on
+   **Project settings → Features → Estimation** and choose **Time** as the
+   unit.
 
 Values are written in hours, for example `5h`. Cards from the **Time
 estimates** deck are written as they are (`2d`, `1w`).

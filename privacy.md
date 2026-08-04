@@ -5,6 +5,7 @@ title: Privacy Policy — Planning Poker for Jira
 # Privacy Policy
 
 **App:** Planning Poker for Jira Cloud
+
 **Last updated:** 5 August 2026
 
 [← Documentation home](index.md)
