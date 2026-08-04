@@ -15,9 +15,9 @@ facilitator saves a final estimate for it.
 
 There are two ways in:
 
-- **From the Games screen.** Open **Apps > Planning Poker** or the
+- **From the Games screen.** Open **Apps → Planning Poker** or the
   **Planning Poker** tab in a project, find the game and click its name.
-- **From a link.** The facilitator copies it with **⋯ > Copy game URL** and
+- **From a link.** The facilitator copies it with **⋯ → Copy game URL** and
   shares it. The link opens the game room directly.
 
 The app has no built-in chat, audio or video. Agree on a call or a channel

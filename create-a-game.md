@@ -28,7 +28,7 @@ session so everyone can see what is being estimated.
 
 ## Start the wizard
 
-Open **Apps > Planning Poker** (or the **Planning Poker** tab inside a project)
+Open **Apps → Planning Poker** (or the **Planning Poker** tab inside a project)
 and click **+ New game**.
 
 You can also start from an existing game: the **⋯** menu on the Games screen

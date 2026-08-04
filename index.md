@@ -36,7 +36,7 @@ same **Games** screen:
 
 | Entry point | Path |
 | --- | --- |
-| Jira top navigation | **Apps > Planning Poker** |
+| Jira top navigation | **Apps → Planning Poker** |
 | Project (space) sidebar | The **Planning Poker** tab inside a project |
 
 The difference is only a convenience: when you open the app from inside a
@@ -51,7 +51,7 @@ configuration is required before the first game.
 
 ## Quick start
 
-1. Open **Apps > Planning Poker** and click **+ New game**.
+1. Open **Apps → Planning Poker** and click **+ New game**.
 2. **Step 1 — New game.** Enter a name, pick the **Estimation field** and the
    **Card deck**, choose the **Facilitator**, and add at least one
    **Estimator**. See [Create a game](create-a-game.md).

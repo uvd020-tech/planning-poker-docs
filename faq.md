@@ -12,7 +12,7 @@ title: FAQ — Planning Poker for Jira
 
 ### Where do I find the app after installing it?
 
-In two places, both opening the same **Games** screen: **Apps > Planning
+In two places, both opening the same **Games** screen: **Apps → Planning
 Poker** in the Jira top navigation, and the **Planning Poker** tab inside a
 project. See [Documentation home](index.md#where-to-find-the-app).
 
@@ -42,7 +42,7 @@ Games screen without a link.
 
 Because you are not on the game's estimator list. Only the facilitator and the
 people added as **Estimators** get the card deck; everyone else joins as a
-spectator. The facilitator can add you through **Edit game > Edit game** tab.
+spectator. The facilitator can add you through **Edit game → Edit game** tab.
 
 ### Can I change my card after the votes are revealed?
 
@@ -87,8 +87,8 @@ call of its own — use your usual meeting tool alongside it.
 Jira refused the write because the estimation field is not available on that
 work item type's edit screen. This is a Jira configuration matter, not an app
 fault. Follow [Jira configuration](jira-configuration.md#making-story-points-writable);
-in team-managed projects the setting lives under **Project settings > Features
-> Estimation**.
+in team-managed projects the setting lives under
+**Project settings → Features → Estimation**.
 
 ### Where exactly is the estimate written?
 

@@ -38,8 +38,8 @@ names the cause.
 The Story Points field exists on the site, but it has to be on the screen used
 by the work item type you estimate.
 
-1. Go to **Project settings > Screens**. (A site admin can do the same from
-   **Jira settings > Issues > Screens**.)
+1. Go to **Project settings → Screens**. (A site admin can do the same from
+   **Jira settings → Issues → Screens**.)
 2. Open the screen scheme, and find the screen used by the work item type you
    estimate — usually the **Edit** screen of *Story*, *Task* or *Bug*.
 3. Click the screen, and add the **Story Points** field with the
@@ -54,7 +54,7 @@ by the work item type you estimate.
 Team-managed projects use the **Story point estimate** field, and it appears
 only when estimation is switched on.
 
-1. Go to **Project settings > Features**.
+1. Go to **Project settings → Features**.
 2. Turn on **Estimation**.
 3. Under **Estimation**, select **Story points** as the unit.
 4. Return to the game and click **Save estimate** again.
@@ -64,7 +64,7 @@ only when estimation is switched on.
 The board fallback works when the board of the project has an estimation
 field set:
 
-1. Open the board, then **Board settings > Estimation**.
+1. Open the board, then **Board settings → Estimation**.
 2. Set **Estimation Statistic** to **Story Points**.
 
 This is what lets the app save an estimate even when the field is missing from
@@ -76,12 +76,12 @@ the edit screen.
 
 **Original estimate** is part of Jira's time tracking.
 
-1. A site admin enables time tracking in **Jira settings > Issues > Issue
-   features > Time tracking**.
+1. A site admin enables time tracking in **Jira settings → Issues → Issue
+   features → Time tracking**.
 2. In a company-managed project, add the **Time tracking** field to the edit
    screen of the work item types you estimate, exactly as described above for
    Story Points.
-3. In a team-managed project, turn on **Project settings > Features >
+3. In a team-managed project, turn on **Project settings → Features >
    Estimation** and choose **Time** as the unit.
 
 Values are written in hours, for example `5h`. Cards from the **Time
