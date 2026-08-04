@@ -112,3 +112,7 @@ Material changes will be published on this page with an updated date above.
 ## Contact
 
 Vudia — [uvd020@gmail.com](mailto:uvd020@gmail.com)
+
+---
+
+[← FAQ](faq.md) · [Documentation home](index.md) · [Support →](support.md)

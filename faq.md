@@ -165,3 +165,8 @@ from the **⋯** menu.
 ---
 
 Still stuck? See [Support](support.md).
+
+---
+
+[← Jira configuration](jira-configuration.md) · [Documentation home](index.md) ·
+[Privacy Policy →](privacy.md)

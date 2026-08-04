@@ -136,4 +136,5 @@ unestimated.
 
 ---
 
-[← Game basics](game-basics.md) · [Game flow →](game-flow.md)
+[← Game basics](game-basics.md) · [Documentation home](index.md) ·
+[Game flow →](game-flow.md)

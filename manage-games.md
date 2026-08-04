@@ -103,4 +103,5 @@ items stay where they are.
 
 ---
 
-[← Game flow](game-flow.md) · [Jira configuration →](jira-configuration.md)
+[← Game flow](game-flow.md) · [Documentation home](index.md) ·
+[Jira configuration →](jira-configuration.md)

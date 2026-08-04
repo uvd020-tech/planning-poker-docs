@@ -188,4 +188,5 @@ stay available.
 
 ---
 
-[← Create a game](create-a-game.md) · [Manage games →](manage-games.md)
+[← Create a game](create-a-game.md) · [Documentation home](index.md) ·
+[Manage games →](manage-games.md)

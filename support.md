@@ -43,3 +43,7 @@ than the solution you have in mind — it usually leads to a better fit.
 
 See the [Privacy Policy](privacy.md). The app runs entirely on Atlassian
 infrastructure and sends no data anywhere else.
+
+---
+
+[← Privacy Policy](privacy.md) · [Documentation home](index.md)

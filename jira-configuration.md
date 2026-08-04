@@ -118,4 +118,5 @@ from making any outbound network call — see the [Privacy Policy](privacy.md).
 
 ---
 
-[← Manage games](manage-games.md) · [FAQ →](faq.md)
+[← Manage games](manage-games.md) · [Documentation home](index.md) ·
+[FAQ →](faq.md)

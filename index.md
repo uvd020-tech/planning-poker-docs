@@ -79,3 +79,7 @@ configuration is required before the first game.
 - Check that the estimation field you plan to use can actually be written to.
   This is the single most common source of errors — see
   [Jira configuration](jira-configuration.md).
+
+---
+
+Next: [Game basics →](game-basics.md)
