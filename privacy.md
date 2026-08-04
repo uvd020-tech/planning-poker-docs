@@ -5,7 +5,9 @@ title: Privacy Policy — Planning Poker for Jira
 # Privacy Policy
 
 **App:** Planning Poker for Jira Cloud
-**Last updated:** 31 July 2026
+**Last updated:** 5 August 2026
+
+[← Documentation home](index.md)
 
 ## Summary
 
@@ -27,7 +29,7 @@ To run an estimation game, the app stores the following in Forge storage:
 | Game settings — name, card deck, estimation field, privacy flag, options | To run the game as configured |
 | Participants — Atlassian account IDs and display names of the facilitator, estimators and spectators, plus the facilitator's avatar URL | To show who is in the game and who may vote |
 | Work items — Jira key and summary of the items being estimated | To show the backlog of the game |
-| Votes — account ID, display name, the card chosen or a "skipped" marker, the optional note, and the time the vote was cast | To reveal the votes and compute results |
+| Votes — account ID, display name, the card chosen, the optional note, and the time the vote was cast | To reveal the votes and compute results |
 | Timestamps — when a game was created, last changed and finished | To sort and filter the list of games |
 | Final estimates | To show results and reports |
 | The last voter list you used | To offer it when you create the next game |
@@ -39,10 +41,18 @@ contents of Jira work items beyond the key and summary shown above.
 
 The app reads data from Jira only to display it to you, using your own Jira
 permissions. It never shows a user anything they could not already see in Jira.
-This includes work item summaries, statuses, priorities, assignees and existing
-estimates, plus lists of projects, boards, sprints, work item types and
-statuses used by the filters, and the results of user searches when you pick
-participants.
+This includes:
+
+- work item summaries, keys, statuses, priorities, assignees and existing
+  estimates;
+- the lists of projects, work item types and statuses used by the backlog
+  filters;
+- the results of user searches, when you pick a facilitator, estimators or
+  spectators;
+- the list of Jira field definitions, to locate the Story Points field on your
+  site;
+- the boards of a project, to build the **Go to Board** link and to save an
+  estimate when the field is missing from the work item's screen.
 
 ## What the app writes to Jira
 
@@ -52,11 +62,12 @@ created: the story point estimate field, or the original time estimate.
 
 ## Estimate suggestions
 
-The **Suggest estimate** feature searches your own Jira site for work items
-with a similar summary that already carry a story point value, and proposes the
-most common value among them. The search runs against your Jira instance with
-your permissions. No AI or machine-learning service is involved and no data
-leaves Atlassian.
+The **Suggest estimate** feature runs a JQL search over your own Jira site for
+work items whose summary shares keywords with the current one and that already
+carry a story point value. It takes the median of those values and snaps it to
+the nearest card in the game's deck. The search runs against your Jira instance
+with your own permissions. No AI or machine-learning service is involved, and
+no data leaves Atlassian.
 
 ## Logs
 

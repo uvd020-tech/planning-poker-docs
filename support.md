@@ -4,16 +4,22 @@ title: Support — Planning Poker for Jira
 
 # Support
 
+[← Documentation home](index.md)
+
 ## Before you write
 
-Most questions are answered in the [User Guide](index.md), in particular:
+Most questions are answered in the documentation:
 
-- [Estimates aren't saved to Jira](index.md#story-points-field-is-not-on-the-appropriate-screen)
-  — usually the estimation field is missing from the work item's screen;
-- [Someone can't vote](index.md#someone-cant-vote) — check the voter list of
-  the game;
-- [The screen doesn't update](index.md#the-screen-doesnt-update-after-an-install-or-upgrade)
-  — reload with Ctrl+Shift+R.
+| Question | Page |
+| --- | --- |
+| The estimate is not saved to Jira | [Jira configuration](jira-configuration.md) |
+| Someone cannot vote | [FAQ — Why can't I vote?](faq.md#why-cant-i-vote) |
+| How the game is played | [Game flow](game-flow.md) |
+| Decks, roles, estimation fields | [Game basics](game-basics.md) |
+| Anything else | [FAQ](faq.md) |
+
+If the app shows an old version after an update, reload the page with
+**Ctrl+Shift+R** (**Cmd+Shift+R** on macOS).
 
 ## Contact
 
@@ -25,8 +31,8 @@ To help us reproduce the problem, please include:
 1. What you were doing, and what happened instead of what you expected.
 2. Your Jira site URL (for example `yourcompany.atlassian.net`).
 3. The name of the game, and the work item key if the problem concerns one.
-4. Whether you are the facilitator or a participant in that game.
-5. A screenshot, if the problem is visual.
+4. Whether you are the facilitator, an estimator or a spectator in that game.
+5. The exact error message shown by the app, or a screenshot.
 
 ## Feature requests
 
