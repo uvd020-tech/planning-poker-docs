@@ -28,6 +28,21 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.nav %}
+        {%- comment -%}
+          Jekyll serves the home page as "/", so strip the file name before
+          comparing the current page with the navigation entries.
+        {%- endcomment -%}
+        {% assign current = page.url | remove: 'index.html' %}
+        <nav class="pp-nav">
+          <ul>
+            {% for item in site.nav %}
+            <li><a href="{{ item.url | relative_url }}"{% if item.url == current %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

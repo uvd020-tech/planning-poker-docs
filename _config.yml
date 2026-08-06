@@ -5,3 +5,25 @@ theme: jekyll-theme-minimal
 title: Planning Poker for Jira
 description: Team backlog estimation inside Jira Cloud — user guide, privacy policy and support.
 show_downloads: false
+
+# Sidebar navigation, rendered by _layouts/default.html. Keep the order in sync
+# with the table of contents in index.md.
+nav:
+  - title: Overview
+    url: /
+  - title: Game basics
+    url: /game-basics.html
+  - title: Create a game
+    url: /create-a-game.html
+  - title: Game flow
+    url: /game-flow.html
+  - title: Manage games
+    url: /manage-games.html
+  - title: Jira configuration
+    url: /jira-configuration.html
+  - title: FAQ
+    url: /faq.html
+  - title: Privacy policy
+    url: /privacy.html
+  - title: Support
+    url: /support.html
