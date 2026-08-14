@@ -1,6 +1,8 @@
-# GitHub Pages builds this documentation site from the root of main.
-# Source of truth for these files is the `docs/` folder of the private app
-# repository (uvd020-tech/planning-poker) — edit there, then copy here.
+# Source of truth for the public documentation site. This repository is
+# private, so GitHub Pages cannot build from it on the free plan: the site is
+# published from the public mirror repository uvd020-tech/planning-poker-docs
+# (these files copied into its root, Pages: main -> /).
+# Edit here, then copy the changed files over to that repository.
 theme: jekyll-theme-minimal
 title: Planning Poker for Jira
 description: Team backlog estimation inside Jira Cloud — user guide, privacy policy and support.
@@ -25,5 +27,7 @@ nav:
     url: /faq.html
   - title: Privacy policy
     url: /privacy.html
+  - title: Security policy
+    url: /security.html
   - title: Support
     url: /support.html

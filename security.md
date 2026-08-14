@@ -87,3 +87,7 @@ This policy is reviewed at least annually, and whenever we make a material chang
 - **Security reports / vulnerability disclosure:** security@vudia.site
 - **General support:** info@vudia.site — see [Support](support.md)
 - **Privacy questions:** see our [Privacy Policy](privacy.md)
+
+---
+
+[← Privacy Policy](privacy.md) · [Documentation home](index.md) · [Support →](support.md)

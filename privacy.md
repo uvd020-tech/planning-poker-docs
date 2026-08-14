@@ -90,7 +90,7 @@ about them.
 - Uninstalling the app removes its stored data according to Atlassian's Forge
   storage lifecycle.
 - To request deletion of data associated with your site, contact us at
-  [uvd020@gmail.com](mailto:uvd020@gmail.com).
+  [info@vudia.site](mailto:info@vudia.site).
 
 ## Where data is stored
 
@@ -103,7 +103,7 @@ residency follow the Atlassian Cloud infrastructure your site runs on. See the
 Since the app processes data on behalf of your organisation, requests for
 access, correction or deletion of personal data are best raised with your own
 Jira administrator, who controls the site. We will assist administrators with
-any such request — contact [uvd020@gmail.com](mailto:uvd020@gmail.com).
+any such request — contact [info@vudia.site](mailto:info@vudia.site).
 
 ## Changes to this policy
 
@@ -111,8 +111,8 @@ Material changes will be published on this page with an updated date above.
 
 ## Contact
 
-Vudia — [uvd020@gmail.com](mailto:uvd020@gmail.com)
+Vudia — [info@vudia.site](mailto:info@vudia.site)
 
 ---
 
-[← FAQ](faq.md) · [Documentation home](index.md) · [Support →](support.md)
+[← FAQ](faq.md) · [Documentation home](index.md) · [Security →](security.md)

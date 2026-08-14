@@ -23,7 +23,7 @@ If the app shows an old version after an update, reload the page with
 
 ## Contact
 
-Email [uvd020@gmail.com](mailto:uvd020@gmail.com). We aim to reply within two
+Email [info@vudia.site](mailto:info@vudia.site). We aim to reply within two
 business days.
 
 To help us reproduce the problem, please include:
@@ -46,4 +46,4 @@ infrastructure and sends no data anywhere else.
 
 ---
 
-[← Privacy Policy](privacy.md) · [Documentation home](index.md)
+[← Security](security.md) · [Documentation home](index.md)
