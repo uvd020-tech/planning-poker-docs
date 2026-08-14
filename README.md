@@ -13,6 +13,7 @@ with GitHub Pages: <https://uvd020-tech.github.io/planning-poker-docs/>
 | Jira configuration | <https://uvd020-tech.github.io/planning-poker-docs/jira-configuration> |
 | FAQ | <https://uvd020-tech.github.io/planning-poker-docs/faq> |
 | Privacy policy | <https://uvd020-tech.github.io/planning-poker-docs/privacy> |
+| Security Policy | <https://uvd020-tech.github.io/planning-poker-docs/security.html> |
 | Support | <https://uvd020-tech.github.io/planning-poker-docs/support> |
 
 The documentation home, the privacy policy and the support page are the three
