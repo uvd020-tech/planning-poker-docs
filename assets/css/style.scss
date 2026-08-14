@@ -40,15 +40,14 @@
   font-weight: bold;
 }
 
-/* From 960px the theme pins the sidebar (position: fixed) and the "Hosted on
-   GitHub Pages" line (position: fixed; bottom: 50px) independently, so a tall
-   menu runs straight into that line on short screens. Cap the sidebar height
-   and let it scroll on its own instead of overlapping the footer. */
+/* From 960px the theme pins the sidebar (position: fixed), so a menu taller
+   than the viewport would simply be cut off. The height cap leaves the whole
+   window available — with the theme's footer line gone the ten entries fit
+   without a scrollbar — and only starts scrolling on genuinely short screens. */
 @media print, screen and (min-width: 960px) {
   header {
-    max-height: calc(100vh - 140px);
+    max-height: calc(100vh - 40px);
     overflow-y: auto;
-    padding-right: 6px;
   }
 
   .pp-nav a {
