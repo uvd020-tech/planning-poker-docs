@@ -25,6 +25,7 @@ makes no outbound network calls — see the [Privacy Policy](privacy.md).
 | [Jira configuration](jira-configuration.md) | Making the estimation field writable, permissions |
 | [FAQ](faq.md) | Frequently asked questions |
 | [Privacy Policy](privacy.md) | What is stored, read and written |
+| [Security Policy](security.md) | How we protect your data |
 | [Support](support.md) | How to reach us and what to include |
 
 ---
