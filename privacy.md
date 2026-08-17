@@ -1,10 +1,10 @@
 ---
-title: Privacy Policy — Planning Poker for Jira
+title: Privacy Policy — Planning Poker - Best Planner
 ---
 
 # Privacy Policy
 
-**App:** Planning Poker for Jira Cloud
+**App:** Planning Poker - Best Planner
 
 **Last updated:** 5 August 2026
 
@@ -12,7 +12,7 @@ title: Privacy Policy — Planning Poker for Jira
 
 ## Summary
 
-Planning Poker is an [Atlassian Forge](https://developer.atlassian.com/platform/forge/)
+Planning Poker - Best Planner is an [Atlassian Forge](https://developer.atlassian.com/platform/forge/)
 app. It runs entirely on Atlassian's infrastructure. It has no servers of its
 own, makes no outbound network calls, and sends no data to any third party.
 Everything the app stores stays inside the Forge platform, within your
