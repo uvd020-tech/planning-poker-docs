@@ -1,5 +1,5 @@
 ---
-title: Create a game — Planning Poker for Jira
+title: Create a game — Planning Poker - Best Planner
 ---
 
 # Create a game
