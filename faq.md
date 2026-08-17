@@ -1,5 +1,5 @@
 ---
-title: FAQ — Planning Poker for Jira
+title: FAQ — Planning Poker - Best Planner
 ---
 
 # Frequently asked questions
