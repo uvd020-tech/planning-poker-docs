@@ -1,16 +1,16 @@
 ---
-title: Security Policy — Planning Poker for Jira
+title: Security Policy — Planning Poker - Best Planner
 ---
 
 # Security Policy
 
-**App:** Planning Poker for Jira Cloud
+**App:** Planning Poker - Best Planner
 
 **Last updated:** 14 August 2026
 
 [← Documentation home](index.md)
 
-This policy describes how Planning Poker Free - Best Planner ("the app"), developed and maintained by Vudia, protects your data and manages security risk. It complements our [Privacy Policy](privacy.md).
+This policy describes how Planning Poker - Best Planner ("the app"), developed and maintained by Vudia, protects your data and manages security risk. It complements our [Privacy Policy](privacy.md).
 
 ## 1. Architecture and Hosting
 
