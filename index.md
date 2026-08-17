@@ -1,10 +1,10 @@
 ---
-title: Planning Poker for Jira — Documentation
+title: Planning Poker - Best Planner — Documentation
 ---
 
-# Planning Poker for Jira
+# Planning Poker - Best Planner
 
-Planning Poker for Jira Cloud is an estimation app for agile teams. The team
+Planning Poker - Best Planner is an estimation app for agile teams. The team
 votes on a work item in secret, all cards are revealed at once, and the agreed
 number is written into the Jira field you chose when the game was created.
 
