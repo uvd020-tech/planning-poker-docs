@@ -1,5 +1,5 @@
 ---
-title: Support — Planning Poker for Jira
+title: Support — Planning Poker - Best Planner
 ---
 
 # Support
