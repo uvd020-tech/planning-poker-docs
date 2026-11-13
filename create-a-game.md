@@ -1,5 +1,6 @@
 ---
-title: Create a game — Planning Poker - Best Planner
+title: Create a game — Planning Poker for Jira
+description: "How to create a Planning Poker game in Jira: game settings, card deck, estimators, and choosing the work items to estimate by filter or JQL."
 ---
 
 # Create a game

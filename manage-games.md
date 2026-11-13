@@ -1,5 +1,6 @@
 ---
 title: Manage games — Planning Poker for Jira
+description: "The Games screen of Planning Poker for Jira: search and filters, cloning a game, copying its link, reports and CSV export."
 ---
 
 # Manage games

@@ -1,5 +1,6 @@
 ---
-title: Support — Planning Poker - Best Planner
+title: Support — Planning Poker for Jira
+description: "How to get help with Planning Poker for Jira, report a problem or request a feature."
 ---
 
 # Support

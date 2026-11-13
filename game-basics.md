@@ -1,5 +1,6 @@
 ---
 title: Game basics — Planning Poker for Jira
+description: "Roles, card decks, estimation fields and the terms used in Planning Poker for Jira, to read before configuring your first game."
 ---
 
 # Game basics

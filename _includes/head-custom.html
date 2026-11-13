@@ -1,3 +1,6 @@
 <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
 <link rel="icon" type="image/png" sizes="48x48" href="{{ '/assets/img/favicon-48.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
+{% if page.url == "/" %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Planning Poker for Jira","description":"Planning Poker for Jira Cloud: the team votes on work items in secret, all cards are revealed at once, and the agreed estimate is saved to the Story Points field or the original time estimate.","applicationCategory":"BusinessApplication","operatingSystem":"Jira Cloud (Atlassian Forge)","url":"https://marketplace.atlassian.com/apps/36487747/planning-poker-for-jira-estimation-sprint-planning","publisher":{"@type":"Organization","name":"Vudia","email":"info@vudia.site"}}</script>
+{% endif %}

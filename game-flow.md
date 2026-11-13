@@ -1,5 +1,6 @@
 ---
 title: Game flow — Planning Poker for Jira
+description: "How a Planning Poker round runs in Jira: secret voting, notes, the round timer, Suggest estimate, revealing votes, re-voting and saving the final estimate."
 ---
 
 # Game flow

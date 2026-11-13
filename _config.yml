@@ -8,6 +8,13 @@ title: Planning Poker for Jira
 description: Team backlog estimation inside Jira Cloud — user guide, privacy policy and support.
 show_downloads: false
 
+# Public address: used by jekyll-seo-tag for canonical links and by
+# jekyll-sitemap for sitemap.xml (both are supported on GitHub Pages).
+url: https://docs.vudia.site
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Sidebar navigation, rendered by _layouts/default.html. Keep the order in sync
 # with the table of contents in index.md.
 nav:

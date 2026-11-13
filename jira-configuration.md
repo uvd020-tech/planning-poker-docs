@@ -1,5 +1,6 @@
 ---
 title: Jira configuration — Planning Poker for Jira
+description: "What Jira needs so Planning Poker can save estimates: the Story Points or original estimate field on the work item screen, and how to fix write errors."
 ---
 
 # Jira configuration

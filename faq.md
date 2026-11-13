@@ -1,5 +1,6 @@
 ---
-title: FAQ — Planning Poker - Best Planner
+title: FAQ — Planning Poker for Jira
+description: "Answers to common questions about Planning Poker for Jira: finding the app, inviting the team, why someone cannot vote, the ∞ and ☕ cards, split votes, and where estimates are written in Jira."
 ---
 
 # Frequently asked questions

@@ -1,0 +1,20 @@
+# Planning Poker for Jira
+
+> Planning Poker for Jira Cloud: the team votes on work items in secret, all cards are revealed at once, and the agreed estimate is saved to the Story Points field or the original time estimate.
+
+Planning Poker for Jira is a Jira Cloud app by Vudia, built on Atlassian Forge.
+Atlassian Marketplace listing: https://marketplace.atlassian.com/apps/36487747/planning-poker-for-jira-estimation-sprint-planning
+Support: info@vudia.site
+
+## Docs
+
+- [Overview](https://docs.vudia.site/): Planning Poker for Jira Cloud: the team votes on work items in secret, all cards are revealed at once, and the agreed estimate is saved to the Story Points field or the original time estimate.
+- [Game basics](https://docs.vudia.site/game-basics.html): Roles, card decks, estimation fields and the terms used in Planning Poker for Jira, to read before configuring your first game.
+- [Create a game](https://docs.vudia.site/create-a-game.html): How to create a Planning Poker game in Jira: game settings, card deck, estimators, and choosing the work items to estimate by filter or JQL.
+- [Game flow](https://docs.vudia.site/game-flow.html): How a Planning Poker round runs in Jira: secret voting, notes, the round timer, Suggest estimate, revealing votes, re-voting and saving the final estimate.
+- [Manage games](https://docs.vudia.site/manage-games.html): The Games screen of Planning Poker for Jira: search and filters, cloning a game, copying its link, reports and CSV export.
+- [Jira configuration](https://docs.vudia.site/jira-configuration.html): What Jira needs so Planning Poker can save estimates: the Story Points or original estimate field on the work item screen, and how to fix write errors.
+- [FAQ](https://docs.vudia.site/faq.html): Answers to common questions about Planning Poker for Jira: finding the app, inviting the team, why someone cannot vote, the ∞ and ☕ cards, split votes, and where estimates are written in Jira.
+- [Support](https://docs.vudia.site/support.html): How to get help with Planning Poker for Jira, report a problem or request a feature.
+- [Privacy Policy](https://docs.vudia.site/privacy.html): What Planning Poker for Jira reads and stores, where the data lives on Atlassian Forge, and what it never collects.
+- [Security Policy](https://docs.vudia.site/security.html): How Planning Poker for Jira is built on Atlassian Forge, the permissions it uses, and how to report a security issue.
