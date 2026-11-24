@@ -45,7 +45,7 @@ settings and takes you straight to step 2 to pick fresh work items. See
 | --- | --- | --- |
 | **Name** | Yes | The name shown on the Games screen. Prefilled with a suggestion; make it recognisable so the list stays readable |
 | **Private game** | No | Only the facilitator, the estimators and the spectators can see and open this game. Anyone else who follows the link gets a "not found" response |
-| **Estimation field** | Yes | Where the final estimate is written: **Story point estimate** or **Original estimate**. See [Game basics](game-basics.md#estimation-fields) |
+| **Estimation field** | Yes | Where the final estimate is written: **Original estimate** (selected by default) or **Story point estimate**. A duplicated game keeps the field of the original game. See [Game basics](game-basics.md#estimation-fields) |
 | **Card deck** | Yes | The cards the estimators vote with. The available decks depend on the estimation field |
 | **Facilitator** | Yes | Runs the game. Defaults to you; type a name to hand it to someone else |
 | **Estimators** | Yes | The people who vote. At least one. If you used a voter list before, a **Last time: …** line appears with a **Use these** button that fills it in again |
@@ -57,9 +57,10 @@ Two behaviours are always on and have no setting:
   everyone;
 - an estimator can change their card after the reveal.
 
-The **Card deck** and **Estimation field** are disabled once an estimate has
-been saved in the game — a lock icon and an explanation are shown in their
-place.
+When you edit a game that already has saved estimates, the **Card deck** and
+**Estimation field** stay editable. A note above them shows how many estimates
+are saved, and **Save** asks you to confirm the change. See
+[Game basics](game-basics.md#changing-the-deck-or-field-later).
 
 Click the **Add works to game backlog** tab to continue.
 

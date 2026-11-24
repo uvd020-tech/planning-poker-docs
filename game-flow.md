@@ -166,8 +166,10 @@ Two rules protect what is already done:
 
 - a work item that already has a saved estimate cannot be removed from the
   game; if you deselect it, it is put back and marked *estimated*;
-- the card deck and the estimation field are locked once any estimate has been
-  saved in that game.
+- if estimates are already saved, changing the card deck or the estimation
+  field asks for confirmation first. Saved estimates stay as they are in Jira;
+  if the deck changes, votes on work items without a saved estimate are
+  cleared so they can be voted on again with the new cards.
 
 ---
 

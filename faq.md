@@ -99,10 +99,12 @@ modified.
 
 ### Can I change the deck or the estimation field of a running game?
 
-Only until the first estimate is saved. After that both are locked, because
-changing them would give the values already written to Jira a different
-meaning. Everything else — name, privacy, facilitator, estimators, spectators,
-backlog — stays editable.
+Yes, at any time, with **Edit game**. If estimates are already saved, **Save**
+asks you to confirm first: the app does not move or convert values already
+written to Jira, so they stay in the previous field and scale, and only new
+estimates use the new settings. If you change the deck, votes on work items
+that have no saved estimate yet are cleared, and those items are voted on
+again with the new cards.
 
 ### Why are T-shirt sizes only available with Original estimate?
 

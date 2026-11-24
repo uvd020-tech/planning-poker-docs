@@ -82,8 +82,11 @@ The **Estimation field** decides where the final estimate is written in Jira.
 
 | Option | Written to |
 | --- | --- |
+| **Original estimate** (default) | Time tracking, as the original estimate, in hours |
 | **Story point estimate** | The Story Points field of the work item |
-| **Original estimate** | Time tracking, as the original estimate, in hours |
+
+A new game starts with **Original estimate** selected. A duplicated game keeps
+the field of the game it was copied from.
 
 ### Which deck works with which field
 
@@ -115,11 +118,18 @@ T-shirt sizes are converted on this scale before the write:
 After a successful save the room reports what actually reached Jira, for
 example *wrote 3h to Jira (M → 3h)*.
 
-### Locked after the first save
+### Changing the deck or field later
 
-Once any estimate has been saved in a game, the **Card deck** and the
-**Estimation field** are locked for that game. Changing them later would make
-the values already written to Jira mean something different.
+The facilitator can change the **Card deck** and the **Estimation field** of an
+active game at any time with **Edit game**, even after estimates are saved.
+When the game already has saved estimates:
+
+- a note above the fields shows how many estimates are saved;
+- **Save** asks you to confirm the change;
+- estimates already written to Jira are not moved or converted — they stay in
+  the previous field and scale; only new estimates use the new settings;
+- if the deck changes, votes on work items without a saved estimate are
+  cleared, so those items are voted on again with the new cards.
 
 ---
 
