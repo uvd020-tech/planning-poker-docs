@@ -47,6 +47,8 @@ settings and takes you straight to step 2 to pick fresh work items. See
 | **Private game** | No | Only the facilitator, the estimators and the spectators can see and open this game. Anyone else who follows the link gets a "not found" response |
 | **Estimation field** | Yes | Where the final estimate is written: **Original estimate** (selected by default) or **Story point estimate**. A duplicated game keeps the field of the original game. See [Game basics](game-basics.md#estimation-fields) |
 | **Card deck** | Yes | The cards the estimators vote with. The available decks depend on the estimation field |
+| **Game mode** | Yes | **Live meeting** — everyone estimates together, one work item at a time. **Async (vote by a deadline)** — estimators vote on every work item in their own time, see [Async games](game-flow.md#async-games). Async is part of the paid plan. The mode can't be changed after the game is created |
+| **Voting deadline** | Async only | When voting closes and the review starts. Prefilled with two days from now at 17:00. Must be at least 5 minutes and at most 60 days ahead. Can be changed while votes are still being collected |
 | **Facilitator** | Yes | Runs the game. Defaults to you; type a name to hand it to someone else |
 | **Estimators** | Yes | The people who vote. At least one. If you used a voter list before, a **Last time: …** line appears with a **Use these** button that fills it in again |
 | **Spectators** | No | People who watch without voting |

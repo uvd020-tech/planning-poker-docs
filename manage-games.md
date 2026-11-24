@@ -88,7 +88,7 @@ downloads the same data:
 | **Work item** | Summary |
 | **Votes** | Number of cards cast |
 | **Final estimate** | The saved value, if any |
-| **Cards** | The individual cards that were cast |
+| **Votes cast** | Who voted what, for example `Anna Smith: 5; John Doe: 8 (needs a spike)`. A note is shown in brackets; a skipped vote shows as *skipped*. Votes that haven't been revealed yet show *Hidden until the votes are revealed* |
 
 The file is generated in your browser from data already on screen.
 

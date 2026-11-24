@@ -155,6 +155,41 @@ value is still kept in the game and its report.
 
 ---
 
+## Async games
+
+An async game is for teams that can't meet at the same time. It is chosen
+with **Game mode → Async (vote by a deadline)** when the game is created, and
+has two phases.
+
+### Collecting votes
+
+Until the deadline, each estimator opens the game whenever it suits them. The
+room shows:
+
+- a banner with the deadline and the time left, and how many work items you
+  have voted on;
+- the deck for the current work item and an optional note;
+- the list of work items with the number of votes on each and **Your vote**.
+
+After you pick a card, the room moves to the next work item you haven't voted
+on yet. You can go back to any work item and change your vote until the
+review starts. The votes of others stay hidden — you only see how many people
+have voted.
+
+### The review
+
+The review starts automatically at the deadline, or earlier when the
+facilitator clicks **Start review** and confirms. If not everyone has voted
+yet, the confirmation says so; voting then closes for everyone.
+
+When the review starts, all votes on all work items are revealed at once and
+the game becomes a normal room: the facilitator goes through the work items,
+discusses the split ones, can run a **Re-vote**, and saves the final estimates
+as described above. On the Games screen the game is marked **Async · until
+…** while votes are collected and **Async · in review** afterwards.
+
+---
+
 ## Editing a running game
 
 The facilitator can change a game while it is being played, from **Edit game**

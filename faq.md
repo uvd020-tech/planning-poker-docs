@@ -75,9 +75,11 @@ any moment without waiting for the timer or for the last voter.
 
 ### Can we estimate without meeting?
 
-The app is built for a live round: everyone votes at the same time and the
-facilitator reveals. There is no asynchronous mode. The app also has no chat or
-call of its own — use your usual meeting tool alongside it.
+Yes — create an **async game** (paid plan). Estimators vote on every work item
+in their own time before a deadline; votes stay hidden until the review, when
+they are all revealed at once and the facilitator saves the final estimates.
+See [Async games](game-flow.md#async-games). The app has no chat or call of
+its own; for live games, use your usual meeting tool alongside it.
 
 ---
 
