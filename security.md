@@ -27,6 +27,7 @@ Full detail is in the [Privacy Policy](privacy.md); in summary:
 - We never store passwords, email addresses, payment details, or full issue content.
 - Every read from Jira happens through the requesting user's own Jira permissions; the app never shows a user anything they couldn't already see in Jira.
 - The only write back to Jira is the final estimate, sent only when a facilitator explicitly clicks **Save estimate**, using that facilitator's own edit permissions.
+- In async games the app also asks Jira to email estimators and the facilitator (invitation, reminder before the deadline, *voting closed*). Jira sends these emails itself; the app doesn't see or store anyone's email address. The emails carry the game name, the deadline, vote counts and a link to the game — never votes or work item content written by the app.
 - The "Suggest estimate" feature runs a local JQL query over your own Jira data — it does not call any AI/ML service, and no data leaves Atlassian's infrastructure for it.
 - CSV exports are generated client-side, in your browser, from data already on screen — they are never generated or stored on a server.
 - Deleting a game immediately and irreversibly removes its data from Forge storage. Estimates already written to Jira issues are not affected. Uninstalling the app follows Atlassian's standard Forge app lifecycle and data-removal policy.
@@ -37,7 +38,7 @@ The app has no login or credential system of its own. Every request is authentic
 
 Within the app, permissions map directly onto Jira: to participate in a game, a user needs **Browse Projects** on the relevant project; to save an estimate as facilitator, they need **Edit Issues**. The app does not grant any access beyond what a user already has in Jira.
 
-The app's declared scopes are limited to what the product needs: read access to projects, work items, JQL and users; write access to work items; board read access; and Forge storage. No external or outbound permissions are declared.
+The app's declared scopes are limited to what the product needs: read access to projects, work items, JQL and users; write access to work items; board read access; sending Jira notifications (for async game emails); and Forge storage. No external or outbound permissions are declared.
 
 ## 4. Internal Security Practices
 

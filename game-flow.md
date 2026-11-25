@@ -176,6 +176,22 @@ on yet. You can go back to any work item and change your vote until the
 review starts. The votes of others stay hidden — you only see how many people
 have voted.
 
+### Emails
+
+The app sends three kinds of email through Jira:
+
+| When | Who gets it | What it says |
+| --- | --- | --- |
+| The game is created, duplicated, or you are added as an estimator | Estimators (not the person who made the change) | The game name, the number of work items and the deadline, with a link to the game |
+| A day before the deadline (or halfway through, for games shorter than two days) | Estimators who haven't voted on every work item | How many work items you have voted on and when voting closes |
+| The deadline has passed | The facilitator | Voting has closed, how many estimators voted on everything, who didn't vote |
+
+Times are shown in each person's Jira time zone. The emails are sent as Jira
+notifications about one of the game's work items, so a person who can't see
+any of the first few work items in the game doesn't get them. Checks run once
+an hour, so a reminder or the *voting closed* email can arrive up to an hour
+later than the moment it describes.
+
 ### The review
 
 The review starts automatically at the deadline, or earlier when the
